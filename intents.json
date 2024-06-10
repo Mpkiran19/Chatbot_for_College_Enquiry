@@ -1,0 +1,71 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hi", "hello", "hey", "good morning", "good afternoon","hii"],
+      "responses": ["Hello! How can I assist you today?", "Hi there! How can I help you?", "Hey! What can I do for you?"]
+    },
+    {
+      "tag": "About Me",
+      "patterns": ["hi who are you", "hello who are you", "hey who are you", "good morning who are you", "good afternoon who are you","hii who are you","who are you","about your self"],
+      "responses": ["Hello My name Mani how can i help you buddy"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["goodbye", "see you later", "bye", "take care"],
+      "responses": ["Goodbye! Have a great day!", "See you later! Take care.", "Bye!"]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["thank you", "thanks", "appreciate it"],
+      "responses": ["You're welcome!", "No problem!", "Glad I could help!"]
+    },
+    {
+      "tag": "college_info",
+      "patterns": ["where is the college located?"],
+      "responses": ["Our college offers a variety of majors in different disciplines. It's located in P.M Palem visakhapatnam."]
+    },
+    {
+      "tag": "college_details",
+      "patterns": ["can you tell me about the college?", "what majors does the college offer?"],
+      "responses": ["Our college offers a variety of majors in different disciplines.You can explore our college's majors and programs on our website https://svpec.info/."]
+    },
+    {
+      "tag": "admissions_info",
+      "patterns": ["what are the admission requirements?", "how do i apply?", "when is the application deadline?"],
+      "responses": ["To apply, you need to meet certain requirements including GPA, standardized test scores, and application deadlines. You can find more information on our admissions page."]
+    },
+    {
+      "tag": "financial_aid_info",
+      "patterns": ["are there scholarships available?", "how can i apply for financial aid?"],
+      "responses": ["Yes, we offer scholarships, grants, loans, and work-study programs to eligible students. Our financial aid office can guide you through the application process."]
+    },
+    {
+      "tag": "campus_life_info",
+      "patterns": ["what is campus life like?", "are there dorms on campus?", "what extracurricular activities are available?"],
+      "responses": ["Campus life is vibrant with various extracurricular activities, clubs, and events. We offer different housing options including dormitories. You can explore our campus life on our website https://svpec.info/ ."]
+    },
+
+    {
+      "tag": "campus_Faculty_info",
+      "patterns": ["who is the hod of mca", "hod of mca", "hod of mca","mca hod"],
+      "responses": ["HOD of MCA V.NEELIMA DEVI"]
+    },
+
+    {
+      "tag": "semister_info",
+      "patterns": ["tell me about semister details","how many semisters are there in mca","what are the subjects in mca","subjects in mca"],
+      "responses": ["There wil be total six semisters. In each semister there will be 5subjects and 2lab practicals  in 3semister and final semister will be consists of 2sujects and one project"]
+    },
+    {
+      "tag": "career_services_info",
+      "patterns": ["do you offer career services?", "how does the college help with job placement?"],
+      "responses": ["Yes, we provide career services including internships, co-op programs, job placement assistance, resume writing help, and networking events."]
+    },
+    {
+      "tag": "fallback",
+      "patterns": [],
+      "responses": ["I'm sorry, I didn't understand that. Can you please rephrase or ask another question?"]
+    }
+  ]
+}

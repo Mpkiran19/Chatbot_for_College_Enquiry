@@ -17,22 +17,22 @@
     },
     {
       "tag": "thanks",
-      "patterns": ["thank you", "thanks", "appreciate it"],
+      "patterns": ["thank you", "thankyou", "thanks", "appreciate it"],
       "responses": ["You're welcome!", "No problem!", "Glad I could help!"]
     },
     {
-      "tag": "college_info",
-      "patterns": ["where is the college located?"],
+      "tag": "college_location",
+      "patterns": ["where is the college located?","location","clg location"],
       "responses": ["Our college offers a variety of majors in different disciplines. It's located in P.M Palem visakhapatnam."]
     },
     {
       "tag": "college_details",
-      "patterns": ["can you tell me about the college?", "what majors does the college offer?"],
+      "patterns": ["can you tell me about the college?", "what majors does the college offer?","college details","clg details","info","clg info"],
       "responses": ["Our college offers a variety of majors in different disciplines.You can explore our college's majors and programs on our website https://svpec.info/."]
     },
     {
       "tag": "admissions_info",
-      "patterns": ["what are the admission requirements?", "how do i apply?", "when is the application deadline?"],
+      "patterns": ["what are the admission requirements?", "how do i apply?", "when is the application deadline?","admission process"],
       "responses": ["To apply, you need to meet certain requirements including GPA, standardized test scores, and application deadlines. You can find more information on our admissions page."]
     },
     {
@@ -48,14 +48,14 @@
 
     {
       "tag": "campus_Faculty_info",
-      "patterns": ["who is the hod of mca", "hod of mca", "hod of mca","mca hod"],
+      "patterns": ["who is the hod of mca", "hod of mca", "hod of mca","mca hod","hod"],
       "responses": ["HOD of MCA V.NEELIMA DEVI"]
     },
 
     {
       "tag": "semister_info",
-      "patterns": ["tell me about semister details","how many semisters are there in mca","what are the subjects in mca","subjects in mca"],
-      "responses": ["There wil be total six semisters. In each semister there will be 5subjects and 2lab practicals  in 3semister and final semister will be consists of 2sujects and one project"]
+      "patterns": ["tell me about semister details","how many semisters are there in mca","what are the subjects in mca","subjects in mca","semister details"],
+      "responses": ["There wil be total six semisters. In each semister there will be 5subjects and 2lab practicals  in 3semister and final semister will be consists of 2subjects and one project"]
     },
     {
       "tag": "career_services_info",

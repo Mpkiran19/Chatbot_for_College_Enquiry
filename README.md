@@ -29,3 +29,7 @@ the following command to test it in the console.
 ```
 $ (venv) python chat.py
 ```
+
+
+## OUTPUT Screens:
+"C:\project\37 Project MCA 2024-25\project files\aditional files\Images\Screenshot (114).png"

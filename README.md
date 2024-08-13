@@ -29,3 +29,6 @@ the following command to test it in the console.
 ```
 $ (venv) python chat.py
 ```
+
+## OUTPUT:
+![Screenshot (112)](https://github.com/user-attachments/assets/7939125f-c536-47c2-a349-35bd3cf93802)

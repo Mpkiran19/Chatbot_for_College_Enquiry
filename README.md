@@ -1,4 +1,9 @@
 ## Initial Setup:
+
+versions:
+python-3.9.12-amd64
+Miniconda3-py39_24.5.0-0-Windows-x86_64
+
 This repo currently contains the starter files.
 
 Clone repo and create a virtual environment

@@ -12,7 +12,7 @@ Clone repo and create a virtual environment
 ```
 $ git clone https://github.com/Mpkiran19/College_Enquiry_Chatbot.git
 $ cd chatbot-deployment
-$ python3 -m venv venv
+$ python -m venv venv
 $ .\venv\Scripts\activate
 ```
 Install dependencies

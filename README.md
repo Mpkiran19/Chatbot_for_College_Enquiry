@@ -10,7 +10,7 @@ This repo currently contains the starter files.
 
 Clone repo and create a virtual environment
 ```
-$ git clone https://github.com/Mpkiran19/Chatbot_College_Enquiry.git
+$ git clone https://github.com/Mpkiran19/Chatbot_for_College_Enquiry.git
 $ cd chatbot-deployment
 $ python -m venv venv
 $ .\venv\Scripts\activate

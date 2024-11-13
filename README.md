@@ -2,7 +2,7 @@
 
 versions:
 
-python-3.9.12-amd64
+python any version
 
 Miniconda3-py39_24.5.0-0-Windows-x86_64
 
@@ -24,6 +24,7 @@ Install nltk package
 $ (venv) python
 >>> import nltk
 >>> nltk.download('punkt')   or nltk.download('punkt_tab')
+>>>quit() or ctrl+z
 ```
 Modify `intents.json` with different intents and responses for your Chatbot
 
